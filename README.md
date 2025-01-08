@@ -47,4 +47,4 @@ This project implements advanced algorithms for solving and generating mazes in 
 - **JUnit**: For testing algorithms and functionality.
 
 ## Acknowledgements
-This project was developed as part of an academic assignment, with a focus on backend development and advanced algorithm implementation.
+This project was developed as part of the course "Advanced Programming Topics," with a focus on backend development and advanced algorithm implementation.
